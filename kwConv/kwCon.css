@@ -1,0 +1,83 @@
+
+body {
+    font-family: 'Coda', cursive;
+    background-color: white;
+}
+
+/* kop */
+
+.col-12 {
+    padding: 0px;
+}
+
+.kop {
+   height: 420px;
+   background-image: url(kwnaarpk.jpg);
+   background-position: center;
+   background-size: cover;
+   background-repeat: no-repeat;
+   border: solid #d9d9d9  1px;
+   margin-bottom: 70px;
+}
+
+.kop2 {
+    height: 200px;
+    background-image: url(kwnaarpk.jpg);
+   background-position: center;
+   background-size: cover;
+   background-repeat: no-repeat;
+   border: solid #d9d9d9  1px;
+   margin-bottom: 60px;
+}
+
+
+.kopstyle {
+    color: #e6efff;
+    text-align: center;
+    margin-top: 110px;
+    font-size: 50px;
+    text-shadow: 2px 2px 5px black;
+}
+
+.kopstyle2 {
+    color: #e6efff;
+    text-align: center;
+    margin-top: 40px;
+    font-size: 50px;
+    text-shadow: 2px 2px black;
+}
+
+/* converter + uitleg */
+
+table{
+margin: auto;
+margin-bottom: 110px;
+margin-top: 100px;
+font-size: 25px;
+}
+
+a {
+    color: black;
+}
+
+.uitleg {
+    font-size: 20px;
+}
+
+#info {
+    padding-left: 70px;
+}
+
+/* footer */
+
+ #bongio {
+     float: right;
+     margin-right: 15px;
+ }
+
+ /* reclame */
+
+ .recl1 {
+     text-align: center;
+     margin-bottom: 40px;
+ }
